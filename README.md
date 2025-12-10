@@ -1,7 +1,7 @@
 <div align="center">
   <a href="">
     <picture>
-        <img alt="Stirrup" src="assets/stirrup-banner.png" width="700">
+        <img alt="Stirrup" src="https://github.com/ArtificialAnalysis/Stirrup/blob/048653717d8662b0b81d152a037995af1c926afc/assets/stirrup-banner.png?raw=true" width="700">
     </picture>
   </a>
   <br></br>
