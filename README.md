@@ -42,13 +42,13 @@ Stirrup is a lightweight framework, or starting point template, for building age
 pip install stirrup      # or: uv add stirrup
 
 # With all optional components
-pip install stirrup[all]  # or: uv add stirrup[all]
+pip install 'stirrup[all]'  # or: uv add 'stirrup[all]'
 
 # Individual extras
-pip install stirrup[litellm]  # or: uv add stirrup[litellm]
-pip install stirrup[docker]   # or: uv add stirrup[docker]
-pip install stirrup[e2b]      # or: uv add stirrup[e2b]
-pip install stirrup[mcp]      # or: uv add stirrup[mcp]
+pip install 'stirrup[litellm]'  # or: uv add 'stirrup[litellm]'
+pip install 'stirrup[docker]'   # or: uv add 'stirrup[docker]'
+pip install 'stirrup[e2b]'      # or: uv add 'stirrup[e2b]'
+pip install 'stirrup[mcp]'      # or: uv add 'stirrup[mcp]'
 ```
 
 ## Quick Start
